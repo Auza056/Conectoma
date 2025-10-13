@@ -28,6 +28,8 @@ Su objetivo es reconectar recuerdos fragmentados para que la IA enseñe el senti
 Cada nivel explora una emoción y una historia de vida.  
 Al final, el jugador enfrenta un dilema: reactivar la IA por completo o dejar que descanse, permitiendo que las personas descubran su propio sentido de la vida por sí mismas.
 
+---
+
 Estructura del Proyecto
 📁 Conectoma/
 
@@ -39,6 +41,7 @@ Estructura del Proyecto
 
 ├── README.md → Este archivo de presentación
 
+---
 
 Herramientas de Gestión
 
