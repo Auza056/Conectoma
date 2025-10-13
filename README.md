@@ -29,10 +29,15 @@ Al final, el jugador enfrenta un dilema: reactivar la IA por completo o dejar qu
 
 Estructura del Proyecto
 📁 Conectoma/
+
 ├── Assets/ → Archivos y escenas del proyecto Unity
+
 ├── Grayboxing/ → Capturas y materiales del graybox
+
 ├── Docs/ → GDD, concept arts, documentación
+
 ├── README.md → Este archivo de presentación
+
 
 Herramientas de Gestión
 
@@ -54,6 +59,3 @@ _capturas del grayboxing de Unit_
 
 Game Jam Univalle 2025
 Proyecto desarrollado en el marco de la **Game Jam Universitaria 2025 (UNIVALLE)**.
-
-
-## 🧱 Estructura del Proyecto
