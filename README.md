@@ -13,6 +13,7 @@
 
 ---
 Información General
+
 **Título:** Conectoma  
 **Género:** Aventura narrativa / Puzzle simbólico / Ciencia ficción emocional  
 **Plataforma:** PC  
