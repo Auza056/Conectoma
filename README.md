@@ -43,7 +43,7 @@ Herramientas de Gestión
 
 - **Miro:** https://miro.com/app/board/uXjVJLIFfx8=/  
 - **Trello:** https://trello.com/b/giyYVnQV/mi-tablero-de-trello
-- **Repositorio GitHub:** [Este mismo link]
+- **Repositorio GitHub:** https://github.com/Auza056/Conectoma.git
 
 ---
 
