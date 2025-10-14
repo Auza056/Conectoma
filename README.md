@@ -2,7 +2,10 @@
 **Versión 1.0**  
 **GAME JAM – UNIVALLE 2025**  
 
- Equipo de Desarrollo  
+ Equipo de Desarrollo
+ 
+ ![Uploading ChatGPT_Image_12_oct_2025__08_16_55_p.m.-removebg-preview.png…]()
+ 
 **Grupo:** Código FRONT-ERA  
 
 - Calle Ergueta Benjamin Emanuel  
